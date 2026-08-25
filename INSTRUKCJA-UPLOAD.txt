@@ -1,0 +1,7 @@
+MARKETIZE POLISHED V3
+
+Wrzuć index.html do osobnego repo:
+ninonszymon-arch/marketize
+
+Nadpisz obecny index.html, Commit changes, poczekaj i odśwież:
+https://ninonszymon-arch.github.io/marketize/
